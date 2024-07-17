@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<vox_configuration>
+
+  <info>
+    <add key="last_update" value="" />
+    <add key="hash" value="" />
+    <add key="config_server_url" value="" />
+    <add key="enable_throw_error" value="false" />
+  </info>
+
+  <appSettings>
+    <configFileLogPath type="string">AppLog.config</configFileLogPath>
+  </appSettings>
+
+</vox_configuration>
